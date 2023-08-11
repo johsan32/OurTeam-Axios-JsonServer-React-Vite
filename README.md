@@ -1,8 +1,10 @@
 # Our Team
--Takım oluşturma, 
--Takım üyesine görev verme görevi sonlandırma
--Takım üyesinin bilgilerini güncelleme,
+- Takım oluşturma, 
+- Takım üyesine görev verme görevi sonlandırma
+- Takım üyesinin bilgilerini güncelleme,
 - Takım üyesini silme gibi yapıların olduğu axios-json server çalışmasıdır.
+
+  
 # React + Vite + Axios + Json-Server + HTTP
 
 # Vite
