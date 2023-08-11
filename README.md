@@ -1,3 +1,8 @@
+# Our Team
+-Takım oluşturma, 
+-Takım üyesine görev verme görevi sonlandırma
+-Takım üyesinin bilgilerini güncelleme,
+- Takım üyesini silme gibi yapıların olduğu axios-json server çalışmasıdır.
 # React + Vite + Axios + Json-Server + HTTP
 
 # Vite
@@ -22,29 +27,27 @@
 
 - Put > Veriyi Güncelleme
 - - `axios.put`
-- Axios 
-  `axios.post('http://localhost:3030/todos',newTodo);`
 
 # Json Server
 - - db.json dosyası api olarak kullanılmıştır.
 -example
 - - {
-  "team": [
-    {
-    id: new Date().getTime(),
-    name: name,
-    job: selectedItem,
-    image: "https://xsgames.co/randomusers/avatar.php?g=pixel",
-    userName: userName,
-    newDate: new Date().toLocaleString(),
-    info: "Collaborating with developers to ensure timely completion of software projects and overseeing code quality.",
-    twitter: "https://twitter.com/username",
-    email: "e-mail@.....com",
-    linkedin: "https://www.linkedin.com/in/username/",
-    github: "https://github.com/username",
-    isDone: false
-    }
-  ]
+- "team": [
+-{
+- id: new Date().getTime(),
+- name: name,
+- job: selectedItem,
+- image: "https://xsgames.co/randomusers/avatar.php?g=pixel",
+- userName: userName,
+- newDate: new Date().toLocaleString(),
+- info: "Collaborating with developers to ensure timely completion of software projects and overseeing code quality.",
+- twitter: "https://twitter.com/username",
+- email: "e-mail@.....com",
+- linkedin: "https://www.linkedin.com/in/username/",
+- github: "https://github.com/username",
+-isDone: false
+-}
+-]
 }
 
 
