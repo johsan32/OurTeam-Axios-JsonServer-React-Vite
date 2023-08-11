@@ -1,0 +1,49 @@
+{
+  "team": [
+    {
+      "id": 1691196177408,
+      "name": "hasan",
+      "job": "Back-End Developer",
+      "image": "https://xsgames.co/randomusers/avatar.php?g=pixel",
+      "userName": "hasan32",
+      "newDate": "05.08.2023 03:42:57",
+      "info": "Collaborating with developers to ensure timely completion of software projects and overseeing code quality.",
+      "twitter": "https://twitter.com/username",
+      "email": "e-mail@.....com",
+      "linkedin": "https://www.linkedin.com/in/username/",
+      "github": "https://github.com/username",
+      "isDone": true
+    },
+    {
+      "id": 1691196804901,
+      "name": "hasan ulusoy",
+      "job": "Front-End Developer",
+      "image": "https://xsgames.co/randomusers/avatar.php?g=pixel",
+      "userName": "hasan32",
+      "newDate": "05.08.2023 03:53:24",
+      "info": "Collaborating with developers to ensure timely completion of software projects and overseeing code quality.",
+      "twitter": "https://twitter.com/username",
+      "email": "e-mail@.....com",
+      "linkedin": "https://www.linkedin.com/in/username/",
+      "github": "https://github.com/username",
+      "isDone": true
+    }
+  ],
+  "person": [
+    {
+      "id": 1,
+      "author": "hasan1",
+      "name": "hasan2"
+    },
+    {
+      "id": 2,
+      "author": "hasan2",
+      "name": "hasan2"
+    },
+    {
+      "id": 3,
+      "author": "hasan3",
+      "name": "hasan2"
+    }
+  ]
+}
